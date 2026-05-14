@@ -24,7 +24,7 @@ A command-line tool that fetches live cryptocurrency prices using the [CoinGecko
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/crypto-price-tracker.git
+git clone https://github.com/vamsii29/crypto-price-tracker.git
 cd crypto-price-tracker
 
 # 2. Create and activate a virtual environment
